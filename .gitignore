@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+palletization_engine/inputs/dataset_logistico_lineas.csv
+palletization_engine/outputs_visualizacion_*.csv
+palletization_engine/dashboard_*.html
+3d_visualiser_ai_studio/node_modules/
+.env

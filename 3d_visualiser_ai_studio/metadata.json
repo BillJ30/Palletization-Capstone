@@ -1,0 +1,6 @@
+{
+  "name": "ICSO Pallet 3D Visualizer",
+  "description": "A 3D visualization app for university capstone project mixed-product palletization heuristic outputs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
